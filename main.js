@@ -1,6 +1,6 @@
 function main(){  
 
-$('prettyCoolRight').hide;
+$('prettyCoolRight').hide();
      
 $('.computersTho').on('click', function {
      $('.prettyCoolRight').hide();
