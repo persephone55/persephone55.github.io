@@ -1,7 +1,7 @@
 function main(){  
 
-$('.computersTho’).on(‘click’, function {
-     $(‘.prettyCoolRight’).hide();
+$('.computersTho').on('click', function {
+     $('.prettyCoolRight').hide();
   })
 
 
