@@ -1,8 +1,8 @@
 function main(){  
 
-$(‘.i-love-computers’).on(‘click’, function {
-     $(‘.i-love-computers’).hide();
-  }):
+$('.computersTho’).on(‘click’, function {
+     $(‘.prettyCoolRight’).hide();
+  })
 
 
 
