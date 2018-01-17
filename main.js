@@ -1,7 +1,7 @@
 function main(){  
 
 $(‘.i-love-computers’).on(‘click’, function {
-     $(‘.i-love-computers’).toggle();
+     $(‘.i-love-computers’).hide();
   }):
 
 
