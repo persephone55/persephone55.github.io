@@ -5,3 +5,20 @@ p {
 body {
   font-family: "Helvetica Neue";
 }
+
+/* Seasoned Data Storyteller*/
+#loki {
+  width: 100px;
+  height 100px;
+}
+
+#slepnir {
+  width: 50%;
+  height: 50%;
+}
+
+#fenrir {
+  width: 50%;
+  height: 50%;
+}
+
