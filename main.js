@@ -1,9 +1,10 @@
 function main(){  
    
-$('.RMfRTitle').on('click', function {
-  $('.ResumeContainer').toggle();
-});
+  $('.RMfRTitle').on('click', function toggleResumeVis{
+    $('.Resume').toggle();
+  });
 
 
 };
+ 
 $(document).ready(main);
