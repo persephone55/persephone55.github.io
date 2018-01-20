@@ -204,7 +204,6 @@ body {
 
 /*Actual Resume*/
 .ResumeContainer {
-  visibility:hidden;
   font-family: "Helvetica Neue";
   font-size: .75rem;
   text-align: left; 
@@ -214,6 +213,7 @@ body {
 }
 
 .Resume {
+    visibility:hidden;
     padding: 2rem;
     margin: auto;
 }
