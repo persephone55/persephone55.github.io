@@ -1,41 +1,212 @@
-p {
-  color:blue;
-  }
 
+
+/*Font styling for whole body*/
 body {
   font-family: "Helvetica Neue";
+  text-align: center;
 }
 
-/* Seasoned Data Storyteller*/
-.SDS {
-    height:30rem;
-    width: 75;
+/*Formatting for Contact Info*/
+
+.CIContainer {
+    margin: auto;
+    width:48.8rem;
+    height: 6.6rem;
+}
+.CI {
+    color:darkblue;
+    width:48.8rem;
+    height: 5rem;
+    background-color:aliceblue;
+    padding: 2rem 0 ;
+    margin:.8rem 0;
+}
+
+/*Formatting for DevResults section of Cover Letter*/
+.DR {
+    font-family: "Helvetica Neue";
+    font-size: .75rem;
+    color: darkblue;
     text-align: center;
+    width: 48.8rem;
+    margin: auto;
+    overflow: scroll; 
 }
 
+.DRBody {
+    Padding: 5%;
+    margin:.8rem;
+    background-color:lightblue;
+    margin: auto;
+}
+
+
+
+.CLContainer {
+    clear: none;
+    margin:auto;
+    height: 100rem;
+    width: 48.8rem;
+    vertical-align: middle;
+    font-size: .75rem;
+    color: white;
+    clear: none;
+    z-index: 2;
+}
+
+
+/* Seasoned Data Storyteller section */
+
+
+/* SDS Title, aligned left*/
 .SDSTitle {
-    height: 43%;
-    width: 43%;
-     max-height: 43%;
-    max-width: 43%;
-    padding: 2%; 2%; 2%; 2%;
+    height: 13rem;
+    width: 20rem;
+    Padding: 8rem 2rem 0 2rem;
+    display:inline;
+    float: right;
+    background-color: darkblue;
+    margin: 0 0 0 .4rem;
+    overflow: scroll; 
+    clear: none;
+    font-size: 1.5rem;
+}
+
+/* SDS Body, aligned right*/
+.SDSBody {
+    height: 17rem;
+    width:20rem;
+    padding: 3rem 2rem 1rem 2rem;
+    display:inline;
+    float: right;
+    background-color: darkblue;
+    margin: 0 .4rem 0 0;
+    overflow: scroll;  
+}
+
+/* Passionate Educator section */
+
+/* PE Body, aligned right */
+.PEBody {
+  height: 16rem;
+    width: 20rem;
+    padding:4rem 2rem 1rem 2rem;
+    display:inline;
+    float: right;
+    background-color: blue;
+    margin: .8rem 0 0 .4rem;
+    overflow: scroll; 
+    clear: none;
+}
+
+/* PE Title, aligned left */
+.PETitle {
+ height: 13rem;
+    width: 20rem;
+    Padding: 8rem 2rem 0 2rem;
     display:inline;
     float: left;
-    background-color: green;
-    margin: 0% 1% 0% 2%;
+    background-color: blue;
+    margin: .8rem .4rem 0 0;
+    overflow: scroll; 
+    clear: none;
+    font-size: 1.5rem;
+}
+
+/* Any Team's Secret Weapon section */
+
+
+/* ATSW Title, aligned right */
+.ATSWTitle {
+ height: 13rem;
+    width: 20rem;
+    Padding: 8rem 2rem 0 2rem;
+    display:inline;
+    float: right;
+    background-color: lightblue;
+    margin: .8rem 0 0 .4rem;
+    overflow: scroll; 
+    clear: none;  
+    font-size: 1.5rem;
+}
+
+/* ATSW Body, aligned left*/
+.ATSWBody {
+    height: 17rem;
+    width:20rem;
+    padding: 2rem;
+    display:inline;
+    float: left;
+    background-color: lightblue;
+    margin: .8rem .4rem 0 0;
     overflow: scroll; 
 }
 
 
-.SDSBody {
-    height: 43%;
-    width: 43%;
-    max-height: 43%;
-    max-width: 43%;
-    padding: 2%; 2%; 2%; 2%;
+/* List of Skills section */
+
+
+/* LoS Body, aligned right */
+.LoSBody {
+    height: 15rem;
+    width: 20rem;
+    padding:5rem 2rem 1rem 2rem;
     display:inline;
     float: right;
-    background-color: blue;
-    margin: 0% 2% 0% 1%;
-    overflow: scroll;
+    background-color: lightblue;
+    margin: .8rem 0 .8rem .4rem;
+    overflow: scroll; 
+    clear: none; 
+}
+    
+/* LoS Title, aligned left*/
+.LoSTitle {
+    height: 13rem;
+    width: 20rem;
+    Padding: 8rem 2rem 0 2rem;
+    display:inline;
+    float: left;
+    background-color: lightblue;
+    margin: .8rem .4rem .8rem 0;
+    overflow: scroll; 
+    font-size: 1.5rem;
+}
+}
 
+
+
+/*RMFR section container*/
+
+
+/*RMfR Button */
+.RMfR {
+    height: 4.6rem;
+    width: 20rem;
+    margin: auto;
+}
+
+.RMfRTitle {
+    background-color: darkblue;
+    width: 20rem;
+    height: 3rem;
+    padding: 1rem 1rem .3rem 1rem;
+    margin: auto;
+    color: white;
+    z-index: 1;
+    clear:both;
+}
+
+/*Actual Resume*/
+.ResumeContainer {
+  font-family: "Helvetica Neue";
+  font-size: .75rem;
+  text-align: left; 
+  width: 48.8rem;
+  background-color:lightblue;
+  margin: auto;
+}
+
+.Resume {
+    padding: 2rem;
+    margin: auto;
+}
