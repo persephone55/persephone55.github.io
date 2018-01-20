@@ -210,10 +210,10 @@ body {
   width: 48.8rem;
   background-color:lightblue;
   margin: auto;
+   visibility:hidden;
 }
 
 .Resume {
-    visibility:hidden;
     padding: 2rem;
     margin: auto;
 }
