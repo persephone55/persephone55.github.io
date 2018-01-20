@@ -1,15 +1,8 @@
 function main(){  
-
-$('prettyCoolRight').hide();
-     
-
-
-
-
-
-
-
-
+   
+$('.RMfRTitle').on('click', function {
+  $('.ResumeContainer').toggle();
+});
 
 
 };
