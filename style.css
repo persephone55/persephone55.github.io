@@ -214,7 +214,7 @@ body {
   width: 48.8rem;
   background-color:#92AAFF;
   margin: auto;
-  clear: both;
+  clear: none;
   color: #00003C;
 }
 
@@ -222,7 +222,7 @@ body {
     padding: 2rem;
     margin: auto;
     margin: .8rem .8rem;
-    clear: both; 
+    clear: none; 
 }
 
 /*Spacing between Training Exp. and Research Exp. sections of resume*/
