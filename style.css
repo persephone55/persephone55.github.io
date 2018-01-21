@@ -184,7 +184,7 @@ body {
 
 /*RMFR section container> includes button AND RESUME*/
 .WRS {
-    height: 65rem;
+    height: 70rem;
 }
 
 /*RMfR Button */
@@ -218,7 +218,7 @@ body {
   margin: auto;
   clear: both;
   color: #00003C;
-  z-index:1;
+  z-index:2;
 }
 
 .Resume {
@@ -227,7 +227,7 @@ body {
     margin: auto;
     margin: .8rem .8rem;
     clear: both; 
-    z-index: 1;
+    z-index: 2;
 }
 
 /*Spacing between Training Exp. and Research Exp. sections of resume*/
