@@ -193,6 +193,7 @@ body {
     width: 48.8rem;
     margin: auto;
     clear: both;
+    z-index:1;
 }
 
 .RMfRTitle {
@@ -203,6 +204,7 @@ body {
     color: white;
     clear:both;
     font-size: 1rem;
+    z-index:1;
 }
 
 /*Actual Resume*/
@@ -216,6 +218,7 @@ body {
   margin: auto;
   clear: both;
   color: #00003C;
+  z-index:1;
 }
 
 .Resume {
@@ -224,6 +227,7 @@ body {
     margin: auto;
     margin: .8rem .8rem;
     clear: both; 
+    z-index: 1;
 }
 
 /*Spacing between Training Exp. and Research Exp. sections of resume*/
