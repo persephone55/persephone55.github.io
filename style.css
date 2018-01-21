@@ -21,10 +21,15 @@ body {
 .CI {
     color:white;
     width:48.8rem;
-    height: 5rem;
+    height: 7.75rem;
     background-color:#00003C;
-    padding: 2rem 0 ;
+    padding: 2rem 0;
     margin:.8rem 0;
+    font-size:1.5rem;
+}
+
+.Email {
+    font-size:1.25rem;
 }
 
 /*Formatting for DevResults section of Cover Letter*/
@@ -41,7 +46,7 @@ body {
 .DRBody {
     Padding: 5%;
     margin:.8rem;
-    background-color:lightblue;
+    background-color:#92AAFF;
     margin: auto;
 }
 
@@ -93,9 +98,9 @@ body {
 
 /* PE Body, aligned right */
 .PEBody {
-  height: 16rem;
+  height: 15.75rem;
     width: 20rem;
-    padding:4rem 2rem 1rem 2rem;
+    padding:5.25rem 2rem 0 2rem;
     display:inline;
     float: right;
     background-color: #070F6E;
@@ -137,9 +142,9 @@ body {
 
 /* ATSW Body, aligned left*/
 .ATSWBody {
-    height: 17rem;
+    height: 16.25rem;
     width:20rem;
-    padding: 2rem;
+    padding: 2.75rem 2rem 2rem 2rem;
     display:inline;
     float: left;
     background-color: #1932B4;
@@ -176,7 +181,6 @@ body {
     overflow: scroll; 
     font-size: 1.5rem;
 }
-}
 
 
 
@@ -195,7 +199,6 @@ body {
 
 .RMfRTitle {
     background-color: #00003C;
-    width: 20rem;
     height: 3rem;
     padding: 1rem 1rem;
     margin: auto;
@@ -211,7 +214,7 @@ body {
   text-align: left; 
   height: 50rem;
   width: 48.8rem;
-  background-color:lightblue;
+  background-color:#92AAFF;
   margin: auto;
   clear: both;
   color: #00003C;
