@@ -184,7 +184,7 @@ body {
 
 /*RMFR section container> includes button AND RESUME*/
 .WRS {
-    height: 57rem;
+    height: 58rem;
 }
 
 /*RMfR Button */
@@ -210,7 +210,7 @@ body {
   font-family: "Helvetica Neue";
   font-size: .75rem;
   text-align: left; 
-  height: 40rem;
+  height: 50rem;
   width: 48.8rem;
   background-color:#92AAFF;
   margin: auto;
@@ -219,6 +219,7 @@ body {
 }
 
 .Resume {
+    height: 50rem;
     padding: 2rem;
     margin: auto;
     margin: .8rem .8rem;
