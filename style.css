@@ -181,13 +181,10 @@ body {
     overflow: scroll; 
     font-size: 1.5rem;
 }
-}
-
-
 
 /*RMFR section container> includes button AND RESUME*/
 .WRS {
-    height: 200rem;
+    height: 100rem;
 }
 
 /*RMfR Button */
