@@ -208,12 +208,7 @@ body {
     font-size: 1rem;
     z-index:1;
 }
-/*Blank Space between Resume Button and Actual Resume*/
-.BSTwo{
-    height: .8rem;
-    width: 48.8rem;
-    clear: both;
-}
+
 
 /*Actual Resume*/
 .ResumeContainer {
