@@ -32,8 +32,8 @@ body {
     font-size:1.25rem;
 }
 
-/*Formatting for DevResults section of Cover Letter*/
-.DR {
+/*Formatting for Initial Paragraph*/
+.IP {
     font-family: "Helvetica Neue";
     font-size: .75rem;
     color: #00003C;
@@ -43,7 +43,7 @@ body {
     overflow: scroll; 
 }
 
-.DRBody {
+.IPBody {
     Padding: 5%;
     margin:.8rem;
     background-color:#92AAFF;
